@@ -6,8 +6,10 @@ user1 = ["(Name) JohnDoe", "(Age) 20", "(City) Ashtabula", "(Flags) NYN"]
 user2 = ["Name:Jane Doe", "City:Kingsville, OH", "Flags:YNY"]
 user3 = ["Name:Sally Jones", "Age:25", "City:Paris", "Flags:YYY"]
 
-# build has table structure to index key value pair from string.
+# build hash table structure to index key value pair from string.
 # split from " " between Key and Value
+#hash table to should be able to index all values
+
 
 #Name -> UserName
 #Age -> UserAge
